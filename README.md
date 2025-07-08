@@ -1,1 +1,1 @@
-Lab code and instructions for CSEN 140. Instructions are within the Jupyter Notebook files along with the code for each lab.
+CSEN 140 lab code and instructions. Instructions are within the Jupyter Notebook files along with the code for each lab.
